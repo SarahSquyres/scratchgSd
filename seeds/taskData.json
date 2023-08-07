@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "task_description": "Bo is looking for their lost son",
+    "user_id": 1,
+    "date_created": "2/30/23"
+  },
+  {
+    "id": 2,
+    "task_description": "Sarah needs to buy drinks",
+    "user_id": 2,
+    "date_created": "5/17/94"
+  },
+  {
+    "id": 3,
+    "task_description": "Emily needs to pick up food for the group",
+    "user_id": 3,
+    "date_created": "6/2/14"
+  }
+]
